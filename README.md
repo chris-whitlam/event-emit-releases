@@ -1,6 +1,6 @@
-# Relay Rocket
+# EventEmit
 
-A repository storing all the releases of Relay Rocket software. Copyright owned by Christopher Whitlam.
+A repository storing all the releases of EventEmit software. Copyright owned by Christopher Whitlam.
 
 
 
